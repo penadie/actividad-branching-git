@@ -125,6 +125,20 @@ Porque al hacer commits pequeños las revisiones de código resultan ser mas fá
 Los commits se utilizan para explicar que parte del proyecto se realizaron los cambios, quien hizo cada cambio, corregir errores de la versión actual regresando a la anterior para arreglar el origen.
 
 ---
+## Alumno 7: El Merge y la Sincronización de Repositorios
+
+### Definición
+El Merge es la acción de fusionar o integrar los cambios de una rama secundaria en la rama principal. La Sincronización es el proceso de actualizar nuestra copia local con los cambios más recientes del repositorio original para trabajar sobre la base más actual.
+#### Respuestas
+¿Qué es un merge? Es un procedimiento en Git que combina secuencias de commits de diferentes ramas en una sola. Se utiliza para consolidar el trabajo finalizado.
+¿Qué es un conflicto? Es una situación de bloqueo que ocurre cuando Git no puede fusionar automáticamente dos cambios porque ambos afectan a la misma línea de un archivo.
+¿Cómo puede evitarse o reducirse? Se puede reducir manteniendo una comunicación fluida con el equipo, haciendo pull (sincronizando) frecuentemente del repositorio original y realizando contribuciones pequeñas y constantes.
+#### Ejemplo
+Si el Alumno 1 cambia la línea 10 del archivo para poner un título y yo, al mismo tiempo, cambio la misma línea 10 para poner un párrafo sin haber sincronizado antes, al intentar hacer el merge, Git se detendrá y me pedirá que elija cuál de las dos versiones debe quedar.
+#### Conclusión personal
+He aprendido que la sincronización es el paso más importante antes de empezar a escribir. Al igual que en el papel maché, si no preparamos bien la base (sincronización), las capas nuevas (nuestro código) no pegarán correctamente y causarán problemas (conflictos) difíciles de arreglar después.
+
+---
 
 ## 📚 Fuentes
 
