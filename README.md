@@ -110,16 +110,20 @@ Mantener `main` estable es fundamental porque:
 
 ---
 
-#Alumno 4  ¿Qué es un commit y por qué es importante?
+# Alumno 4  ¿Qué es un commit y por qué es importante?
 
-##¿Qué es un commit?
+## ¿Qué es un commit?
+
 Un commit es un punto de guardado que captura los cambios realizados en un proyecto en un momento específico.
 
-##¿Por que se deben hacer commits pequeños?
+## ¿Por que se deben hacer commits pequeños?
+
 Porque al hacer commits pequeños las revisiones de código resultan ser mas fáciles de entender entre colaboradores y mantener el historial del proyecto de forma ordenada.
 
-##¿Cómo ayudan los commits a entender la historia del trabajo?
+## ¿Cómo ayudan los commits a entender la historia del trabajo?
+
 Los commits se utilizan para explicar que parte del proyecto se realizaron los cambios, quien hizo cada cambio, corregir errores de la versión actual regresando a la anterior para arreglar el origen.
+
 ---
 
 ## 📚 Fuentes
