@@ -1,13 +1,13 @@
 # Actividad Branching Git
 Integrantes:
-Diego Pena
-Brandon Inostroza
-Renato Campos
-Victor Erazo
-Bruno Bustos
-Christopher Contreras
-Alonso Morales
-Julio Oyarzun
+- *Diego Pena             -> Alumno 1*
+- *Brandon Inostroza      -> Alumno 2*
+- *Renato Campos          -> Alumno 3*
+- *Victor Erazo           -> Alumno 4*
+- *Bruno Bustos           -> Alumno 5*
+- *Christopher Contreras  -> Alumno 6*
+- *Alonso Morales         -> Alumno 7*
+- *Julio Oyarzun          -> Alumno 8*
 
 Objetivo
 Practicar branching, fork, pull request y merge.
